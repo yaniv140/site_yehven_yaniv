@@ -1,0 +1,156 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": ">Блузка жіноча біла",
+            "slug": "bluzka-zhinocha-bila",
+            "description": "Стильна жіноча блузка білого кольру.",
+            "img": "",
+            "price": "1200.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Блуза жіноча чорна",
+            "slug": "bluza-zhinocha-chorna",
+            "description": "Стильна жіноча блуза.Підкреслить вашу індивідуальність",
+            "img": "",
+            "price": "1500.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": ">Джинси жіночі",
+            "slug": "dzhinsi-zhinochi",
+            "description": "Стильні жіночі джинси....",
+            "img": "",
+            "price": "1300.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "Джинси чоловічі",
+            "slug": "dzhinsi-cholovichi",
+            "description": "Класичні........",
+            "img": "",
+            "price": "1200.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "Ваза",
+            "slug": "vaza",
+            "description": "Ваза для квітів,декоративна.",
+            "img": "",
+            "price": "200.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Шкіряний ремінь",
+            "slug": "shkiryanij-remin",
+            "description": "Широкий стильний шкіряний ремінь",
+            "img": "",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Сукня",
+            "slug": "suknya",
+            "description": "Чудова.....",
+            "img": "",
+            "price": "4000.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": ">Сорочка чоловіча чорна",
+            "slug": "sorochka-cholovicha-chorna",
+            "description": "Класична чорна сорочка slim-fit",
+            "img": "",
+            "price": "1000.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "Сорочка чоловіча біла",
+            "slug": "sorochka-cholovicha-bila",
+            "description": "Стильна біла сорочка для чоловіка.",
+            "img": "",
+            "price": "1000.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Костюм чоловічий весільний",
+            "slug": "kostyum-cholovichij-vesilnij",
+            "description": "Дизайнерський весільний костюм для чоловіка.",
+            "img": "",
+            "price": "4000.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 13,
+        "fields": {
+            "name": "Чоловічий костюм",
+            "slug": "cholovichij-kostyum",
+            "description": ">Костюм, дуже стильний на вид, зеленого кольору. Класичного крою.",
+            "img": "",
+            "price": "3500.00",
+            "discount": "0.00",
+            "quantity": 0,
+            "category": 2
+        }
+    }
+]

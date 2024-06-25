@@ -1,0 +1,30 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "�������",
+            "slug": "kostyumi",
+            "description": "",
+            "img": "",
+            "price": "1500.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "�������",
+            "slug": "sorochki",
+            "description": "",
+            "img": "",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 3
+        }
+    }
+]
